@@ -21,10 +21,10 @@
     "react-native": ">=0.25.1",
     "react": ">=0.14.5"
   },
-  "dependencies": {
-    "react-native-controllers": "^2.0.0"
-  },
   "optionalDependencies": {
     "react-redux": "*"
+  },
+  "dependencies": {
+    "react-native-controllers": "git+https://github.com/joefocusrite/react-native-controllers.git"
   }
 }
